@@ -4,6 +4,6 @@
 
 A continuación adjunto varios enlaces correspondientes a cada uno de los repositorios creados para llevar a cabo cada una de las partes en las que se divide la asignatura:
 
-* MI WIKI / BITÁCORA PERSONAL
+* [MI WIKI / BITÁCORA PERSONAL](https://github.com/aleon2020/Mecatronica-2023-2024/wiki)
 
 * PROYECTO FINAL
