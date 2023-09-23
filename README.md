@@ -7,3 +7,9 @@ A continuación adjunto varios enlaces correspondientes a cada uno de los reposi
 * [MI WIKI / BITÁCORA PERSONAL](https://github.com/aleon2020/Mecatronica-2023-2024/wiki)
 
 * PROYECTO FINAL
+
+El cual ha sido desarrollado por el grupo de trabajo X (GTX), compuesto por los siguientes miembros:
+
+* [FENÉS GUARDIA, SANTIAGO](https://github.com/santtfg)
+
+* [LEÓN LUENGO, ALBERTO](https://github.com/aleon2020)
