@@ -8,7 +8,7 @@ A continuación adjunto varios enlaces correspondientes a cada uno de los reposi
 
 * PROYECTO FINAL
 
-El cual ha sido desarrollado por el grupo de trabajo X (GTX), compuesto por los siguientes miembros:
+Éste último ha sido desarrollado por el grupo de trabajo X (GTX), compuesto por los siguientes miembros:
 
 * [FENÉS GUARDIA, SANTIAGO](https://github.com/santtfg)
 
