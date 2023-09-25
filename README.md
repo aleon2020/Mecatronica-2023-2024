@@ -8,8 +8,10 @@ A continuación adjunto varios enlaces correspondientes a cada uno de los reposi
 
 * PROYECTO FINAL
 
-Éste último ha sido desarrollado por el grupo de trabajo X (GTX), compuesto por los siguientes miembros:
+Éste último ha sido desarrollado por el grupo de trabajo 7 (GT7, Los Ultramarines 3.0), compuesto por los siguientes miembros:
 
 * [FENÉS GUARDIA, SANTIAGO](https://github.com/santtfg)
+
+* [RANDO HERNÁNDEZ, JORGE](https://github.com/jorgerando)
 
 * [LEÓN LUENGO, ALBERTO](https://github.com/aleon2020)
