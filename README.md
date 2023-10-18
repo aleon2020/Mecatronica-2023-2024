@@ -6,7 +6,7 @@ A continuación adjunto varios enlaces correspondientes a cada uno de los reposi
 
 * [MI WIKI / BITÁCORA PERSONAL](https://github.com/aleon2020/Mecatronica-2023-2024/wiki)
 
-* PROYECTO FINAL
+* [PROYECTO FINAL](https://github.com/aleon2020/Mecatronica-Proyecto)
 
 Éste último ha sido desarrollado por el grupo de trabajo 7 (GT7, Los Ultramarines 3.0), compuesto por los siguientes miembros:
 
